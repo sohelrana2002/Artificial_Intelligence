@@ -38,6 +38,7 @@ The main goal of this repository is to:
 ---
 
 # Search Algorithms
+
 ✅ Breadth First Search (BFS)
 ✅ Depth First Search (DFS)
 ✅ Uniform Cost Search (UCS)
